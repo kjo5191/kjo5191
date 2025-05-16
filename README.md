@@ -43,7 +43,7 @@ Spring 기반의 웹 백엔드 개발과 실무 환경에 가까운 프로젝트
 
 ### 📬 Contact
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [kwonjw5191@gmail.com](mailto:kwonjw5191@gmail.com)
 - GitHub: [github.com/kjo5191](https://github.com/kjo5191)
 
 
