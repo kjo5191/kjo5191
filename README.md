@@ -17,12 +17,10 @@ Spring 기반의 웹 프로젝트를 직접 설계하고 구현하면서
 <details>
 <summary>📌 프로젝트 요약 포스터 보기</summary>
 
-![StudyLog 포스터](./studylog_poster.png)
+![ShoFriend 포스터](./shofriend_poster.png)
 
 </details>
 
-**요약 포스터**  
-![ShoFriend 포스터](./shofriend_poster.png)  
 
 **기간**  
 1차 : 2025.04.08 ~ 2025.04.14  
