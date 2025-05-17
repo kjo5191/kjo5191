@@ -6,24 +6,13 @@ Spring 기반의 웹 백엔드 개발과 실무 환경에 가까운 프로젝트
 
 ---
 
-### 💻 Projects
-
-| 프로젝트 | 설명 | 기술스택 |
-|----------|------|----------|
-| [ShoFriend](https://github.com/kjo5191/Project_ShoFriend) | Spring 기반 쇼핑몰 웹 서비스 (팀) | Spring Boot, MyBatis, JSP |
-| [StudyLog](https://github.com/kjo5191/Project_StudyLog) | 면접 질문 기록 및 학습 정리 플랫폼 (개인) | Spring Boot, JPA, Thymeleaf |
-| [CarRepairShop](https://github.com/kjo5191/Project_CarRepairShop) | 공공데이터 기반 자동차 정비소 안내 플랫폼 (팀) | Spring Boot, JSP, API |
-
-
 ## 💻 주요 프로젝트 요약
 
 ---
 
-### 🛒 ShoFriend - 쇼핑몰 웹 플랫폼 (팀 프로젝트
-![ShoFriend 포스터](./shofriend_poster.png)
-
-**기간**: 1차 : 2025.04.08 ~ 2025.04.14  
-          2차 : 2025.05.08 ~ 2025.05.14
+### 🛒 ShoFriend - 쇼핑몰 웹 플랫폼 (팀 프로젝트)
+**기간**: 1차 : 2025.04.08 ~ 2025.04.14 
+          2차 : 2025.05.08 ~ 2025.05.14 
           
 **기술 스택**: Spring Legacy → Spring Boot (2차 마이그레이션), MyBatis, JSP, JSTL, MySQL, WebSocket
 
@@ -36,13 +25,20 @@ Spring 기반의 웹 백엔드 개발과 실무 환경에 가까운 프로젝트
 - 리뷰 작성 및 별점 통계 표시
 - WebSocket 기반 친구 간 실시간 채팅 + 상품 링크 공유 기능
 
+**요약 포스터**
+
+![ShoFriend 포스터](./shofriend_poster.png)
+
 🔗 [레포지토리 바로가기](https://github.com/kjo5191/Project_ShoFriend)
 
 ---
 
 ### 🧠 StudyLog - 면접 질문 학습 기록 플랫폼 (개인 프로젝트)
-**기간**: 2025.04 ~ 진행 중  
+
+**기간**: 2025.04 ~ 진행 중 
+
 **기술 스택**: Spring Boot, JPA, Thymeleaf, MySQL  
+
 **설명**:  
 GPT와의 대화로 생성한 면접 질문/답변을 정리하고 저장하는 개인 학습 플랫폼입니다.  
 랜덤 질문 출력, 질문 등록, 답변 수정 등의 기능을 중심으로 구현하고 있으며,  
@@ -58,8 +54,11 @@ GPT와의 대화로 생성한 면접 질문/답변을 정리하고 저장하는 
 ---
 
 ### 🧰 CarRepairShop - 자동차 정비소 안내 웹 (팀 프로젝트)
+
 **기간**: 2025.04.28 ~ 진행 중  
+
 **기술 스택**: Spring Boot, JSP, MyBatis, OpenAPI, MySQL  
+
 **설명**:  
 공공데이터 포털의 자동차 정비소 API를 활용하여 전국 정비소 정보를 제공하는 웹 플랫폼입니다.  
 지도 기반 검색, 관리자 페이지(검색/정렬/페이징 등) 구현을 목표로 진행 중입니다.
@@ -89,8 +88,8 @@ GPT와의 대화로 생성한 면접 질문/답변을 정리하고 저장하는 
 
 ### 📗 Blog & Docs
 
-- Velog: [https://velog.io/@kjo5191](https://velog.io/@kjo5191)
-- Notion Portfolio: [https://your-notion-link](https://your-notion-link)
+- [Velog 블로그](https://velog.io/@kjo5191)
+- [Notion 포트폴리오](https://www.notion.so/1f498aa06044809fa9f4c43d94f2e561)
 
 ---
 
