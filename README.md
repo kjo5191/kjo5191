@@ -93,10 +93,12 @@ GPT와의 대화로 생성한 면접 질문/답변을 정리하고 저장하는 
 
 ### 🛠️ Tech Stack
 
-- **Front-End**: JSP, Thymeleaf, Bootstrap
-- **Database**: MySQL, H2
-- **Back-End**: Java, Spring Boot, Spring MVC, MyBatis, JPA
+- **Language**: Java (주력), Python (기초)
+- **Back-End**: Spring Boot, Spring Framework (Legacy), MyBatis, JPA
+- **Front-End**: JSP, Thymeleaf, Bootstrap, Vue
+- **Database**: MySQL, Oracle
 - **Infra / Tools**: Git, Sourcetree, Postman, Notion
+- **Collaboration Tools**: Flow, Slack, Jira
 
 ---
 
