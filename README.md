@@ -72,11 +72,6 @@ GPT와의 대화로 생성한 면접 질문/답변을 정리하고 저장하는 
 
 ---
 
----
-
-
----
-
 ### 🛠️ Tech Stack
 
 - **Back-End**: Java, Spring Boot, Spring MVC, MyBatis, JPA
@@ -88,8 +83,8 @@ GPT와의 대화로 생성한 면접 질문/답변을 정리하고 저장하는 
 
 ### 📗 Blog & Docs
 
-- [Velog 블로그](https://velog.io/@kjo5191)
-- [Notion 포트폴리오](https://www.notion.so/1f498aa06044809fa9f4c43d94f2e561)
+- Velog: [https://velog.io/@kjo5191](https://velog.io/@kjo5191)
+- Notion Portfolio: [https://your-notion-link](https://your-notion-link)
 
 ---
 
