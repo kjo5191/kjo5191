@@ -95,7 +95,7 @@ GPT와의 대화로 생성한 면접 질문/답변을 정리하고 저장하는 
 
 - **Language**: Java (주력), Python
 - **Back-End**: Spring Boot, Spring Framework (Legacy), MyBatis, JPA
-- **Front-End**: JSP, Thymeleaf, Bootstrap, Vue
+- **Front-End**: JSP, Thymeleaf, Bootstrap, JavaScript
 - **Database**: MySQL, Oracle
 - **Infra / Tools**: Git, Sourcetree, Postman, Notion
 - **Collaboration Tools**: Flow, Slack, Jira
