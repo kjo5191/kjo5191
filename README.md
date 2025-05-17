@@ -14,6 +14,13 @@ Spring 기반의 웹 프로젝트를 직접 설계하고 구현하면서
 
 ### 🛒 ShoFriend - 쇼핑몰 웹 플랫폼 (팀 프로젝트)
 
+<details>
+<summary>📌 프로젝트 요약 포스터 보기</summary>
+
+![StudyLog 포스터](./studylog_poster.png)
+
+</details>
+
 **요약 포스터**  
 ![ShoFriend 포스터](./shofriend_poster.png)  
 
