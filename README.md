@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Kjun! (a.k.a. kjo5191)
+## 👨‍💻 권준우 | Backend Developer (GitHub: kjo5191)
 
 백엔드 개발자로 커리어 전환을 준비 중인 권준우입니다.  
 Spring 기반의 웹 프로젝트를 직접 설계하고 구현하면서  
@@ -38,9 +38,9 @@ Spring 기반의 웹 프로젝트를 직접 설계하고 구현하면서
 
 🔗 [레포지토리 바로가기](https://github.com/kjo5191/Project_ShoFriend)
 
----  
+---
 
-  
+
 ### 🧠 StudyLog - 면접 질문 학습 기록 플랫폼 (개인 프로젝트)
 
 **기간**: 2025.04 ~ 진행 중  
@@ -61,9 +61,9 @@ GPT와의 대화로 생성한 면접 질문/답변을 정리하고 저장하는 
 
 🔗 [레포지토리 바로가기](https://github.com/kjo5191/Project_StudyLog)
 
----  
+---
 
-  
+
 ### 🧰 CarRepairShop - 자동차 정비소 안내 웹 (팀 프로젝트)
 
 **기간**: 2025.04.28 ~ 진행 중  
@@ -83,27 +83,27 @@ GPT와의 대화로 생성한 면접 질문/답변을 정리하고 저장하는 
 
 🔗 [레포지토리 바로가기](https://github.com/kjo5191/Project_CarRepairShop)
 
----  
+---
 
-  
+
 ### 🛠️ Tech Stack
 
-- **Back-End**: Java, Spring Boot, Spring MVC, MyBatis, JPA
 - **Front-End**: JSP, Thymeleaf, Bootstrap
 - **Database**: MySQL, H2
+- **Back-End**: Java, Spring Boot, Spring MVC, MyBatis, JPA
 - **Infra / Tools**: Git, Sourcetree, Postman, Notion
 
----  
+---
 
-  
-### 📗 Blog & Docs
+
+### 📗 Blog & Portfolio
 
 - Velog: [https://velog.io/@kjo5191](https://velog.io/@kjo5191)
 - Notion Portfolio: [https://your-notion-link](https://your-notion-link)
 
----  
+---
 
-  
+
 ### ✨ About Me
 
 - 국비 부트캠프 수료 중 (2025)
@@ -111,9 +111,9 @@ GPT와의 대화로 생성한 면접 질문/답변을 정리하고 저장하는 
 - 프로젝트 기반 학습을 통해 실전 역량 강화 중
 - 코드 품질보다 "전체 흐름과 구조"를 중시함
 
----  
+---
 
-  
+
 ### 📬 Contact
 
 - Email: [kwonjw5191@gmail.com](mailto:kwonjw5191@gmail.com)
