@@ -111,12 +111,12 @@ GPT와의 대화로 생성한 면접 질문/답변을 정리하고 저장하는 
 
 ### 🛠️ Tech Stack
 
-- **Language**: Java (주력), Python
+- **Languages**: Java (주력), Python (기초)
 - **Back-End**: Spring Boot, Spring Framework (Legacy), MyBatis, JPA
-- **Front-End**: JSP, Thymeleaf, Bootstrap, JavaScript
+- **Front-End**: JSP, Thymeleaf, HTML5, CSS3, JavaScript, jQuery, Ajax, Bootstrap
 - **Database**: MySQL, Oracle
-- **Infra / Tools**: Git, Sourcetree, Postman, Notion
-- **Collaboration Tools**: Flow, Slack, Jira
+- **Tools / Infra**: Eclipse, VS Code, Sourcetree, Tomcat 
+- **Collaboration**: Flow, Slack, Jira, GitHub
 
 ---
 
