@@ -124,7 +124,7 @@ GPT와의 대화로 생성한 면접 질문/답변을 정리하고 저장하는 
 ### 📗 Blog & Portfolio
 
 - Velog: [https://velog.io/@kjo5191](https://velog.io/@kjo5191)
-- Notion Portfolio: [https://your-notion-link](https://your-notion-link)
+- Notion Portfolio: [https://www.notion.so/1f498aa06044809fa9f4c43d94f2e561](https://www.notion.so/1f498aa06044809fa9f4c43d94f2e561)
 
 ---
 
