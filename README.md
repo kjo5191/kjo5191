@@ -118,7 +118,53 @@ GPT와의 대화로 생성한 면접 질문/답변을 정리하고 저장하는 
 - **Tools / Infra**: Eclipse, VS Code, Sourcetree, Tomcat 
 - **Collaboration**: Flow, Slack, Jira, GitHub
 
----
+---  
+
+### 🧪 Recall Center - 차량 리콜 데이터 기반 통계 & 추천 웹 (팀 프로젝트)
+
+**기간**: 2025.05.13 ~ 진행 중  
+
+**기술 스택**: Spring Boot, React, Flask, MySQL, OpenAPI, JWT  
+
+**설명**:  
+공공데이터 포털의 **전국 차량 리콜 정보 API**를 활용하여  
+리콜 현황, 통계 분석, 결함 신고, 유사 리콜 추천 기능까지 제공하는 웹 플랫폼입니다.  
+
+Spring Boot 기반의 백엔드와 React 프론트엔드로 구성되며,  
+**Python + Flask로 구현한 유사도 추천 API 서버**와도 연동됩니다.
+
+**주요 기능**
+- 리콜 정보 및 상세페이지 (React)
+- 리콜 통계 (연도별, 월별) 시각화
+- 결함 신고 등록 및 관리자 검수 기능
+- 관리자 인증 (JWT 기반) 및 로그인 페이지
+- 유사 리콜 추천 (Flask API 연동, TF-IDF + Cosine Similarity)
+
+**담당 기능**
+| 영역 | 세부 내용 |
+|------|-----------|
+| Flask 서버 구축 | 텍스트 기반 유사 리콜 추천 모델 개발 및 API 서버 배포 (Render) |
+| 추천 알고리즘 | TF-IDF + CosineSimilarity 기반 유사 리콜 추출 기능 구현 |
+| Spring 연동 | Flask API와의 통신 및 유사 리콜 ID 출력 기능 개발 |
+| 배포 경험 | Spring/React/Flask 각각 Render로 개별 배포, 환경변수 설정 등 실전 배포 경험 |
+| 관리자 인증 | JWT 기반 로그인 및 페이지 접근 제어 처리 |
+
+**기술적 포인트**
+- `recall.csv` 기반 데이터 전처리 → TF-IDF 벡터화 → Cosine 유사도 계산 → 상위 N개 추천
+- Flask API 서버와 Spring Boot 간 연동 (`RestTemplate`으로 외부 API 호출)
+- `.env` 활용한 환경 분리 및 React/Spring/Flask 간 통신 포맷 정리
+- React 단에서 JWT 기반 관리자 인증 흐름 구현 및 상태 유지 처리
+
+🔗 [레포지토리 바로가기](https://github.com/kjo5191/Project_RecallCenter)
+
+<details>
+<summary>📌 🔽 유사도 추천 기능 구조 시각화 보기</summary>
+
+![Recall Recommendation Diagram](./recall_recommend_diagram.png)
+
+</details>
+
+---  
 
 
 ### 📗 Blog & Portfolio
