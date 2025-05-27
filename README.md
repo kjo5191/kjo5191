@@ -106,18 +106,6 @@ GPT와의 대화로 생성한 면접 질문/답변을 정리하고 저장하는 
 
 🔗 [레포지토리 바로가기](https://github.com/kjo5191/Project_CarRepairShop)
 
----
-
-
-### 🛠️ Tech Stack
-
-- **Languages**: Java (주력), Python (기초)
-- **Back-End**: Spring Boot, Spring Framework (Legacy), MyBatis, JPA
-- **Front-End**: JSP, Thymeleaf, HTML5, CSS3, JavaScript, jQuery, Ajax, Bootstrap
-- **Database**: MySQL, Oracle
-- **Tools / Infra**: Eclipse, VS Code, Sourcetree, Tomcat 
-- **Collaboration**: Flow, Slack, Jira, GitHub
-
 ---  
 
 ### 🧪 Recall Center - 차량 리콜 데이터 기반 통계 & 추천 웹 (팀 프로젝트)
@@ -167,12 +155,22 @@ Spring Boot 기반의 백엔드와 React 프론트엔드로 구성되며,
 ---  
 
 
+### 🛠️ Tech Stack
+
+- **Languages**: Java (주력), Python (기초)
+- **Back-End**: Spring Boot, Spring Framework (Legacy), MyBatis, JPA
+- **Front-End**: JSP, Thymeleaf, HTML5, CSS3, JavaScript, jQuery, Ajax, Bootstrap
+- **Database**: MySQL, Oracle
+- **Tools / Infra**: Eclipse, VS Code, Sourcetree, Tomcat 
+- **Collaboration**: Flow, Slack, Jira, GitHub
+
+
 ### 📗 Blog & Portfolio
 
 - Velog: [https://velog.io/@kjo5191](https://velog.io/@kjo5191)
 - Notion Portfolio: [https://www.notion.so/1f498aa06044809fa9f4c43d94f2e561](https://www.notion.so/1f498aa06044809fa9f4c43d94f2e561)
 
----
+---  
 
 ### ✨ About Me
 
