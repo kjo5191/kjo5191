@@ -164,6 +164,7 @@ Spring Boot 기반의 백엔드와 React 프론트엔드로 구성되며,
 - **Tools / Infra**: Eclipse, VS Code, Sourcetree, Tomcat 
 - **Collaboration**: Flow, Slack, Jira, GitHub
 
+---  
 
 ### 📗 Blog & Portfolio
 
