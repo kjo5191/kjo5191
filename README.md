@@ -110,6 +110,13 @@ GPT와의 대화로 생성한 면접 질문/답변을 정리하고 저장하는 
 
 ### 🧪 Recall Center - 차량 리콜 데이터 기반 통계 & 추천 웹 (팀 프로젝트)
 
+<details>
+<summary>📌 🔽 프로젝트 요약 포스터 보기</summary>
+
+![Recall Center 포스터](./recall_poster.png)
+
+</details>
+
 **기간**: 2025.05.19 ~ 2025.05.25
 
 **기술 스택**: Spring Boot, React, Flask, MySQL, OpenAPI, JWT  
