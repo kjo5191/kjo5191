@@ -91,7 +91,7 @@ GPT와의 대화로 생성한 면접 질문/답변을 정리하고 저장하는 
 
 **기간**: 2025.04.28 ~ 2025.05.04
 
-**기술 스택**: Spring Boot, JSP, MyBatis, OpenAPI, MySQL  
+**기술 스택**: Spring Boot, JSP, MyBatis, OpenAPI, MySQL
 
 **설명**:  
 공공데이터 포털의 자동차 정비소 API를 활용하여 전국 정비소 정보를 제공하는 웹 플랫폼입니다.  
@@ -159,7 +159,7 @@ Spring Boot 기반의 백엔드와 React 프론트엔드로 구성되며,
 
 - **Languages**: Java (주력), Python (기초)
 - **Back-End**: Spring Boot, Spring Framework (Legacy), MyBatis, JPA
-- **Front-End**: JSP, Thymeleaf, HTML5, CSS3, JavaScript, jQuery, Ajax, Bootstrap
+- **Front-End**: HTML5, CSS3, JavaScript, JSP, Thymeleaf, jQuery, Bootstrap, React
 - **Database**: MySQL, Oracle
 - **Tools / Infra**: Eclipse, VS Code, Sourcetree, Tomcat 
 - **Collaboration**: Flow, Slack, Jira, GitHub
