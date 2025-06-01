@@ -154,12 +154,6 @@ Spring Boot 기반의 백엔드와 React 프론트엔드로 구성되며,
 
 🔗 [레포지토리 바로가기](https://github.com/kjo5191/Project_RecallCenter)
 
-<details>
-<summary>📌 🔽 유사도 추천 기능 구조 시각화 보기</summary>
-
-![Recall Recommendation Diagram](./recall_recommend_diagram.png)
-
-</details>
 
 ---  
 
