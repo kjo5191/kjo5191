@@ -66,7 +66,7 @@ Spring Framework (Legacy) → Spring Boot (2차 마이그레이션), JSP, JSTL, 
 
 ### 🧠 StudyLog - 개발자 취업 학습 도우미 웹 플랫폼 (개인 프로젝트)
 
-**기간**: 2025.04 ~ 진행 중  
+**기간**: 2025.04.22 ~ 2025.06.13  
 
 **기술 스택**  
 Spring Boot, Thymeleaf, JPA(Hibernate), MySQL, Bootstrap5, Apache Solr, Python(Flask), OpenAI API  
@@ -81,7 +81,7 @@ AI 피드백 및 검색 기능까지 지원하는 **개발자 전용 학습/기�
 - **답변 자동 저장**,  
 - **랜덤 질문/답변 생성**,  
 - **FullCalendar 기반 일정 관리**,  
-- **Apache Solr 기반 검색 기능**,  
+- **Apache Solr 기반 검색 기능**    
 등의 다양한 기능을 통해 **자기 주도적 학습**을 돕는 도구로 발전시키고자 했습니다.  
 
 
