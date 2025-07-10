@@ -64,7 +64,7 @@ Spring Framework (Legacy) → Spring Boot (2차 마이그레이션), JSP, JSTL, 
 ---
 
 
-### 🧠 StudyLog - 개발자 취업 학습 도우미 웹 플랫폼 (개인 프로젝트)
+### 🧠 StudyLog - 취업 학습 도우미 웹 플랫폼 (개인 프로젝트)
 
 **기간**: 2025.04.22 ~ 2025.06.13  
 
