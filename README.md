@@ -182,18 +182,6 @@ Spring Boot 기반의 백엔드와 React 프론트엔드로 구성되며,
 
 ---  
 
-
-### 🛠️ Tech Stack
-
-- **Languages**: Java (주력), Python (기초)
-- **Back-End**: Spring Boot, Spring Framework (Legacy), MyBatis, JPA
-- **Front-End**: HTML5, CSS3, JavaScript, JSP, Thymeleaf, jQuery, Bootstrap, React
-- **Database**: MySQL, Oracle
-- **Tools / Infra**: Eclipse, VS Code, Sourcetree, Tomcat 
-- **Collaboration**: Flow, Slack, Jira, GitHub
-
----  
-
 ### 🛠️ Tech Stack
   
 #### 🔧 Back-End  
