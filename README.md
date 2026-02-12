@@ -225,14 +225,6 @@ Spring Boot 기반의 백엔드와 React 프론트엔드로 구성되며,
 
 ---  
 
-
-### 📗 Blog & Portfolio
-
-- Velog: [https://velog.io/@kjo5191](https://velog.io/@kjo5191)
-- Notion Portfolio: [https://www.notion.so/1f498aa06044809fa9f4c43d94f2e561](https://www.notion.so/1f498aa06044809fa9f4c43d94f2e561)
-
----  
-
 ### 📬 Contact
 
 - Email: [kwonjw5191@gmail.com](mailto:kwonjw5191@gmail.com)
